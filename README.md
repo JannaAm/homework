@@ -1,7 +1,5 @@
 # homework
 
-[![Build Status](https://img.shields.io/travis/username/repo.svg)](https://travis-ci.org/username/repo)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Testing+student+QA)](https://git.io/typing-svg)
 
 # homework
